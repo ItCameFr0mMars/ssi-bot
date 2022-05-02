@@ -1,0 +1,487 @@
+{
+    "data": [
+        {
+            "author": "Kaylasp",
+            "author_flair_css_class": null,
+            "author_flair_text": null,
+            "brand_safe": false,
+            "can_mod_post": false,
+            "contest_mode": false,
+            "created_utc": 1515323137,
+            "domain": "self.furryrp",
+            "full_link": "https://www.reddit.com/r/furryrp/comments/7oq1pl/f4f_casual_my_secret_furry/",
+            "id": "7oq1pl",
+            "is_crosspostable": true,
+            "is_reddit_media_domain": false,
+            "is_self": true,
+            "is_video": false,
+            "locked": false,
+            "num_comments": 0,
+            "num_crossposts": 0,
+            "over_18": true,
+            "permalink": "/r/furryrp/comments/7oq1pl/f4f_casual_my_secret_furry/",
+            "pinned": false,
+            "post_hint": "self",
+            "preview": {
+                "enabled": false,
+                "images": [
+                    {
+                        "id": "6j0Eg0Ukmw3El2HAGNwT3ETP6qaaodBlaebP3dGTTyE",
+                        "resolutions": [
+                            {
+                                "height": 48,
+                                "url": "https://i.redditmedia.com/4hkk_ZbIyrEA_u4dUUwvuVoj03hNKMXgFp90qJcuRW8.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=0a771b5f414f19e1b175cdff70c13af3",
+                                "width": 108
+                            },
+                            {
+                                "height": 96,
+                                "url": "https://i.redditmedia.com/4hkk_ZbIyrEA_u4dUUwvuVoj03hNKMXgFp90qJcuRW8.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=34bba33f21e5e5abcd33b4e62aa387c5",
+                                "width": 216
+                            },
+                            {
+                                "height": 143,
+                                "url": "https://i.redditmedia.com/4hkk_ZbIyrEA_u4dUUwvuVoj03hNKMXgFp90qJcuRW8.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=57ce008076ae59aed83edbf54b7db3be",
+                                "width": 320
+                            },
+                            {
+                                "height": 286,
+                                "url": "https://i.redditmedia.com/4hkk_ZbIyrEA_u4dUUwvuVoj03hNKMXgFp90qJcuRW8.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;s=bd8ea1d390b00b4c66a4002ef7fb440c",
+                                "width": 640
+                            },
+                            {
+                                "height": 429,
+                                "url": "https://i.redditmedia.com/4hkk_ZbIyrEA_u4dUUwvuVoj03hNKMXgFp90qJcuRW8.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=960&amp;s=965ca2174427acbdc54d7ffb69bfeec9",
+                                "width": 960
+                            },
+                            {
+                                "height": 483,
+                                "url": "https://i.redditmedia.com/4hkk_ZbIyrEA_u4dUUwvuVoj03hNKMXgFp90qJcuRW8.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=1080&amp;s=b47131fb84947ec12dba55414076cf72",
+                                "width": 1080
+                            }
+                        ],
+                        "source": {
+                            "height": 680,
+                            "url": "https://i.redditmedia.com/4hkk_ZbIyrEA_u4dUUwvuVoj03hNKMXgFp90qJcuRW8.png?s=1a4651db7925487ce5fb8d4bfd7adce8",
+                            "width": 1520
+                        },
+                        "variants": {
+                            "nsfw": {
+                                "resolutions": [
+                                    {
+                                        "height": 48,
+                                        "url": "https://i.redditmedia.com/4hkk_ZbIyrEA_u4dUUwvuVoj03hNKMXgFp90qJcuRW8.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=png&amp;blur=600&amp;px=32&amp;s=dede6c005b3d5e13ee2b22c50ff24945",
+                                        "width": 108
+                                    },
+                                    {
+                                        "height": 96,
+                                        "url": "https://i.redditmedia.com/4hkk_ZbIyrEA_u4dUUwvuVoj03hNKMXgFp90qJcuRW8.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=png&amp;blur=600&amp;px=32&amp;s=c1c1b52c26d5a7b3fc6529c22f9cab1e",
+                                        "width": 216
+                                    },
+                                    {
+                                        "height": 143,
+                                        "url": "https://i.redditmedia.com/4hkk_ZbIyrEA_u4dUUwvuVoj03hNKMXgFp90qJcuRW8.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=png&amp;blur=600&amp;px=32&amp;s=ae2248c40d07deb6834db96f463ace61",
+                                        "width": 320
+                                    },
+                                    {
+                                        "height": 286,
+                                        "url": "https://i.redditmedia.com/4hkk_ZbIyrEA_u4dUUwvuVoj03hNKMXgFp90qJcuRW8.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=png&amp;blur=600&amp;px=32&amp;s=84a188c02b7c76b689d448b82205eac1",
+                                        "width": 640
+                                    },
+                                    {
+                                        "height": 429,
+                                        "url": "https://i.redditmedia.com/4hkk_ZbIyrEA_u4dUUwvuVoj03hNKMXgFp90qJcuRW8.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=960&amp;fm=png&amp;blur=600&amp;px=32&amp;s=10533471ab945cfa499956413b518ec0",
+                                        "width": 960
+                                    },
+                                    {
+                                        "height": 483,
+                                        "url": "https://i.redditmedia.com/4hkk_ZbIyrEA_u4dUUwvuVoj03hNKMXgFp90qJcuRW8.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=1080&amp;fm=png&amp;blur=600&amp;px=32&amp;s=e90f38cfaa4baff97ff0318709e5f1b2",
+                                        "width": 1080
+                                    }
+                                ],
+                                "source": {
+                                    "height": 680,
+                                    "url": "https://i.redditmedia.com/4hkk_ZbIyrEA_u4dUUwvuVoj03hNKMXgFp90qJcuRW8.png?fm=png&amp;blur=600&amp;px=32&amp;s=71264ec74a0178db8691ffe018abc94a",
+                                    "width": 1520
+                                }
+                            },
+                            "obfuscated": {
+                                "resolutions": [
+                                    {
+                                        "height": 48,
+                                        "url": "https://i.redditmedia.com/4hkk_ZbIyrEA_u4dUUwvuVoj03hNKMXgFp90qJcuRW8.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=png&amp;blur=600&amp;px=32&amp;s=dede6c005b3d5e13ee2b22c50ff24945",
+                                        "width": 108
+                                    },
+                                    {
+                                        "height": 96,
+                                        "url": "https://i.redditmedia.com/4hkk_ZbIyrEA_u4dUUwvuVoj03hNKMXgFp90qJcuRW8.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=png&amp;blur=600&amp;px=32&amp;s=c1c1b52c26d5a7b3fc6529c22f9cab1e",
+                                        "width": 216
+                                    },
+                                    {
+                                        "height": 143,
+                                        "url": "https://i.redditmedia.com/4hkk_ZbIyrEA_u4dUUwvuVoj03hNKMXgFp90qJcuRW8.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=png&amp;blur=600&amp;px=32&amp;s=ae2248c40d07deb6834db96f463ace61",
+                                        "width": 320
+                                    },
+                                    {
+                                        "height": 286,
+                                        "url": "https://i.redditmedia.com/4hkk_ZbIyrEA_u4dUUwvuVoj03hNKMXgFp90qJcuRW8.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=png&amp;blur=600&amp;px=32&amp;s=84a188c02b7c76b689d448b82205eac1",
+                                        "width": 640
+                                    },
+                                    {
+                                        "height": 429,
+                                        "url": "https://i.redditmedia.com/4hkk_ZbIyrEA_u4dUUwvuVoj03hNKMXgFp90qJcuRW8.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=960&amp;fm=png&amp;blur=600&amp;px=32&amp;s=10533471ab945cfa499956413b518ec0",
+                                        "width": 960
+                                    },
+                                    {
+                                        "height": 483,
+                                        "url": "https://i.redditmedia.com/4hkk_ZbIyrEA_u4dUUwvuVoj03hNKMXgFp90qJcuRW8.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=1080&amp;fm=png&amp;blur=600&amp;px=32&amp;s=e90f38cfaa4baff97ff0318709e5f1b2",
+                                        "width": 1080
+                                    }
+                                ],
+                                "source": {
+                                    "height": 680,
+                                    "url": "https://i.redditmedia.com/4hkk_ZbIyrEA_u4dUUwvuVoj03hNKMXgFp90qJcuRW8.png?fm=png&amp;blur=600&amp;px=32&amp;s=71264ec74a0178db8691ffe018abc94a",
+                                    "width": 1520
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            "retrieved_on": 1515380733,
+            "score": 3,
+            "selftext": "Heya, I'm Kayla! I don't have a set scenario just yet, but I know generally what I want. Basically I'm a straight, human female in a relationship. You're a furry female (possibly in a relationship yourself). Stuff happens. Butt in face stuff. \n\nThis could be consensual, noncon, coerced, whatever. You could be normal sized, exceptionally small, or enormously large. And yes, vore is on the table.\n\nMy main kinks include: forced/coerced/willing: rimming, excessive kissing, licking (literally everywhere), dry-humping, sleep play, and sometimes feet. If you like my kinks, but not the prompt still feel free to message me, or just check out one of my many other prompts I'll have linked below.\n\n[Here's the obligatory kink list](https://i.imgur.com/3tsuV4l.png) and [here's my DPP profile with all of my other prompts.](https://www.reddit.com/r/DPPprofiles/comments/70oywg/21f4f_kaylasp_or_what_will_i_pervert_next/)\n\nI'm good to talk in PMs, reddit chat, or discord, just lemme know.\n\nHope to hear from ya!",
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "furryrp",
+            "subreddit_id": "t5_2w2as",
+            "subreddit_type": "public",
+            "thumbnail": "self",
+            "title": "[F4F] [Casual] - My secret furry",
+            "url": "https://www.reddit.com/r/furryrp/comments/7oq1pl/f4f_casual_my_secret_furry/"
+        },
+        {
+            "author": "Kaylasp",
+            "author_flair_css_class": null,
+            "author_flair_text": null,
+            "brand_safe": false,
+            "can_mod_post": false,
+            "contest_mode": false,
+            "created_utc": 1514848755,
+            "domain": "self.furryrp",
+            "full_link": "https://www.reddit.com/r/furryrp/comments/7niesk/21_f4f_casual_cheating_on_the_phone_hes_on_the/",
+            "id": "7niesk",
+            "is_crosspostable": true,
+            "is_reddit_media_domain": false,
+            "is_self": true,
+            "is_video": false,
+            "locked": false,
+            "num_comments": 0,
+            "num_crossposts": 0,
+            "over_18": true,
+            "permalink": "/r/furryrp/comments/7niesk/21_f4f_casual_cheating_on_the_phone_hes_on_the/",
+            "pinned": false,
+            "post_hint": "self",
+            "preview": {
+                "enabled": false,
+                "images": [
+                    {
+                        "id": "6j0Eg0Ukmw3El2HAGNwT3ETP6qaaodBlaebP3dGTTyE",
+                        "resolutions": [
+                            {
+                                "height": 48,
+                                "url": "https://i.redditmedia.com/4hkk_ZbIyrEA_u4dUUwvuVoj03hNKMXgFp90qJcuRW8.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=0a771b5f414f19e1b175cdff70c13af3",
+                                "width": 108
+                            },
+                            {
+                                "height": 96,
+                                "url": "https://i.redditmedia.com/4hkk_ZbIyrEA_u4dUUwvuVoj03hNKMXgFp90qJcuRW8.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=34bba33f21e5e5abcd33b4e62aa387c5",
+                                "width": 216
+                            },
+                            {
+                                "height": 143,
+                                "url": "https://i.redditmedia.com/4hkk_ZbIyrEA_u4dUUwvuVoj03hNKMXgFp90qJcuRW8.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=57ce008076ae59aed83edbf54b7db3be",
+                                "width": 320
+                            },
+                            {
+                                "height": 286,
+                                "url": "https://i.redditmedia.com/4hkk_ZbIyrEA_u4dUUwvuVoj03hNKMXgFp90qJcuRW8.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;s=bd8ea1d390b00b4c66a4002ef7fb440c",
+                                "width": 640
+                            },
+                            {
+                                "height": 429,
+                                "url": "https://i.redditmedia.com/4hkk_ZbIyrEA_u4dUUwvuVoj03hNKMXgFp90qJcuRW8.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=960&amp;s=965ca2174427acbdc54d7ffb69bfeec9",
+                                "width": 960
+                            },
+                            {
+                                "height": 483,
+                                "url": "https://i.redditmedia.com/4hkk_ZbIyrEA_u4dUUwvuVoj03hNKMXgFp90qJcuRW8.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=1080&amp;s=b47131fb84947ec12dba55414076cf72",
+                                "width": 1080
+                            }
+                        ],
+                        "source": {
+                            "height": 680,
+                            "url": "https://i.redditmedia.com/4hkk_ZbIyrEA_u4dUUwvuVoj03hNKMXgFp90qJcuRW8.png?s=1a4651db7925487ce5fb8d4bfd7adce8",
+                            "width": 1520
+                        },
+                        "variants": {
+                            "nsfw": {
+                                "resolutions": [
+                                    {
+                                        "height": 48,
+                                        "url": "https://i.redditmedia.com/4hkk_ZbIyrEA_u4dUUwvuVoj03hNKMXgFp90qJcuRW8.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=png&amp;blur=600&amp;px=32&amp;s=dede6c005b3d5e13ee2b22c50ff24945",
+                                        "width": 108
+                                    },
+                                    {
+                                        "height": 96,
+                                        "url": "https://i.redditmedia.com/4hkk_ZbIyrEA_u4dUUwvuVoj03hNKMXgFp90qJcuRW8.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=png&amp;blur=600&amp;px=32&amp;s=c1c1b52c26d5a7b3fc6529c22f9cab1e",
+                                        "width": 216
+                                    },
+                                    {
+                                        "height": 143,
+                                        "url": "https://i.redditmedia.com/4hkk_ZbIyrEA_u4dUUwvuVoj03hNKMXgFp90qJcuRW8.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=png&amp;blur=600&amp;px=32&amp;s=ae2248c40d07deb6834db96f463ace61",
+                                        "width": 320
+                                    },
+                                    {
+                                        "height": 286,
+                                        "url": "https://i.redditmedia.com/4hkk_ZbIyrEA_u4dUUwvuVoj03hNKMXgFp90qJcuRW8.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=png&amp;blur=600&amp;px=32&amp;s=84a188c02b7c76b689d448b82205eac1",
+                                        "width": 640
+                                    },
+                                    {
+                                        "height": 429,
+                                        "url": "https://i.redditmedia.com/4hkk_ZbIyrEA_u4dUUwvuVoj03hNKMXgFp90qJcuRW8.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=960&amp;fm=png&amp;blur=600&amp;px=32&amp;s=10533471ab945cfa499956413b518ec0",
+                                        "width": 960
+                                    },
+                                    {
+                                        "height": 483,
+                                        "url": "https://i.redditmedia.com/4hkk_ZbIyrEA_u4dUUwvuVoj03hNKMXgFp90qJcuRW8.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=1080&amp;fm=png&amp;blur=600&amp;px=32&amp;s=e90f38cfaa4baff97ff0318709e5f1b2",
+                                        "width": 1080
+                                    }
+                                ],
+                                "source": {
+                                    "height": 680,
+                                    "url": "https://i.redditmedia.com/4hkk_ZbIyrEA_u4dUUwvuVoj03hNKMXgFp90qJcuRW8.png?fm=png&amp;blur=600&amp;px=32&amp;s=71264ec74a0178db8691ffe018abc94a",
+                                    "width": 1520
+                                }
+                            },
+                            "obfuscated": {
+                                "resolutions": [
+                                    {
+                                        "height": 48,
+                                        "url": "https://i.redditmedia.com/4hkk_ZbIyrEA_u4dUUwvuVoj03hNKMXgFp90qJcuRW8.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;fm=png&amp;blur=600&amp;px=32&amp;s=dede6c005b3d5e13ee2b22c50ff24945",
+                                        "width": 108
+                                    },
+                                    {
+                                        "height": 96,
+                                        "url": "https://i.redditmedia.com/4hkk_ZbIyrEA_u4dUUwvuVoj03hNKMXgFp90qJcuRW8.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;fm=png&amp;blur=600&amp;px=32&amp;s=c1c1b52c26d5a7b3fc6529c22f9cab1e",
+                                        "width": 216
+                                    },
+                                    {
+                                        "height": 143,
+                                        "url": "https://i.redditmedia.com/4hkk_ZbIyrEA_u4dUUwvuVoj03hNKMXgFp90qJcuRW8.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;fm=png&amp;blur=600&amp;px=32&amp;s=ae2248c40d07deb6834db96f463ace61",
+                                        "width": 320
+                                    },
+                                    {
+                                        "height": 286,
+                                        "url": "https://i.redditmedia.com/4hkk_ZbIyrEA_u4dUUwvuVoj03hNKMXgFp90qJcuRW8.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;fm=png&amp;blur=600&amp;px=32&amp;s=84a188c02b7c76b689d448b82205eac1",
+                                        "width": 640
+                                    },
+                                    {
+                                        "height": 429,
+                                        "url": "https://i.redditmedia.com/4hkk_ZbIyrEA_u4dUUwvuVoj03hNKMXgFp90qJcuRW8.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=960&amp;fm=png&amp;blur=600&amp;px=32&amp;s=10533471ab945cfa499956413b518ec0",
+                                        "width": 960
+                                    },
+                                    {
+                                        "height": 483,
+                                        "url": "https://i.redditmedia.com/4hkk_ZbIyrEA_u4dUUwvuVoj03hNKMXgFp90qJcuRW8.png?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=1080&amp;fm=png&amp;blur=600&amp;px=32&amp;s=e90f38cfaa4baff97ff0318709e5f1b2",
+                                        "width": 1080
+                                    }
+                                ],
+                                "source": {
+                                    "height": 680,
+                                    "url": "https://i.redditmedia.com/4hkk_ZbIyrEA_u4dUUwvuVoj03hNKMXgFp90qJcuRW8.png?fm=png&amp;blur=600&amp;px=32&amp;s=71264ec74a0178db8691ffe018abc94a",
+                                    "width": 1520
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            "retrieved_on": 1514915832,
+            "score": 1,
+            "selftext": "\"Oh really, oh I can't believe he did that!\"\n\n\"That is completely unfair baby, I know!\"\n\nI carry on the conversation, biting my lip from time to time to stifle my moans from being heard over the phone.\n\n\"Oh y-yeah? Well at the end of the day at least you know you're in the right.\"\n\nHer hair tickles my inner thighs as she looks up at me, wide-eyed and mischievous. The look I return conveys my belief that she's a little shit. Judging by how deep she buries her tongue in response I assume she took that as a challenge.\n\n\"Of c-course... I.. yes of course you're right baby.\"\n\nIt's becoming harder to keep up the charade, I can hear his voice growing with concern.\n\n\"N-no I'm fine just uh, browsing Facebook is all so my mind is a bit distra-\"\n\nShe grabs my hips and twists my body, I follow through with the motion until I'm laying on my stomach.\n\n\"-cted.\"\n\nI can feel her fingers teasing me, my voice waivers more as I feel her tongue graze against my left ass cheek.\n\n______\n\nHeya, I'm Kayla! I think you get the idea, I'm on the phone with my boyfriend when you decide it's time for some fun. How did we get to this point? What happens after you flip me over? All that and more will be revealed in my private messages.\n\nWhat you have to decide is who (or what) are you. Friend, co-worker, family (his or mine), stranger, something else? Are you even fully human? Let's find out.\n\nI'm good to talk in PMs, reddit chat, or discord, just lemme know.\n\n[Here's the obligatory kink list](https://i.imgur.com/3tsuV4l.png) and [here's my DPP profile](https://www.reddit.com/r/DPPprofiles/comments/70oywg/21f4f_kaylasp_or_what_will_i_pervert_next/)\n\nHope to hear from ya!",
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "furryrp",
+            "subreddit_id": "t5_2w2as",
+            "subreddit_type": "public",
+            "thumbnail": "self",
+            "title": "[21] [F4F] [Casual] [Cheating] [On the Phone] - \"He's on the phone!\"",
+            "url": "https://www.reddit.com/r/furryrp/comments/7niesk/21_f4f_casual_cheating_on_the_phone_hes_on_the/"
+        },
+        {
+            "author": "Blazingsun273",
+            "author_flair_css_class": null,
+            "author_flair_text": null,
+            "brand_safe": false,
+            "can_mod_post": false,
+            "contest_mode": false,
+            "created_utc": 1515117349,
+            "domain": "self.furryrp",
+            "full_link": "https://www.reddit.com/r/furryrp/comments/7o7ut1/m4a_casual_just_looking_for_some_casual_breeding/",
+            "id": "7o7ut1",
+            "is_crosspostable": true,
+            "is_reddit_media_domain": false,
+            "is_self": true,
+            "is_video": false,
+            "locked": false,
+            "num_comments": 1,
+            "num_crossposts": 0,
+            "over_18": true,
+            "permalink": "/r/furryrp/comments/7o7ut1/m4a_casual_just_looking_for_some_casual_breeding/",
+            "pinned": false,
+            "retrieved_on": 1515179785,
+            "score": 1,
+            "selftext": "Hello hello! I'm looking for some people to talk to on here, I don't have any preference on what you are, just as long as you can keep a dominant edge over me (I'm switch if that's what you're into though!~) \n\nI love to goof around and cuddle, I used the term breeding because \"getting rammed and/or eating you out\" didn't sound cute and wouldn't've fit.\n\nI would like to use the Reddit chat thingie that we have now, as I like to be able to see your messages while typing mine, on mobile you can't do that with pms. how ever if you have any quarrels against it, that's fine too! \n\nI hope to hear from you soon!~ &lt;3\n\nBlazingsun273 ",
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "furryrp",
+            "subreddit_id": "t5_2w2as",
+            "subreddit_type": "public",
+            "thumbnail": "self",
+            "title": "[M4A] [Casual] Just looking for some casual \"breeding\" and cuddling",
+            "url": "https://www.reddit.com/r/furryrp/comments/7o7ut1/m4a_casual_just_looking_for_some_casual_breeding/"
+        },
+        {
+            "author": "Lizzybutt",
+            "author_flair_css_class": null,
+            "author_flair_text": null,
+            "brand_safe": false,
+            "can_mod_post": false,
+            "contest_mode": false,
+            "created_utc": 1515174046,
+            "domain": "self.furryrp",
+            "full_link": "https://www.reddit.com/r/furryrp/comments/7oct4q/m4m_serious_skype_interested_in_roleplays_with_a/",
+            "id": "7oct4q",
+            "is_crosspostable": true,
+            "is_reddit_media_domain": false,
+            "is_self": true,
+            "is_video": false,
+            "locked": false,
+            "num_comments": 0,
+            "num_crossposts": 0,
+            "over_18": true,
+            "permalink": "/r/furryrp/comments/7oct4q/m4m_serious_skype_interested_in_roleplays_with_a/",
+            "pinned": false,
+            "retrieved_on": 1515231384,
+            "score": 1,
+            "selftext": "Hello there! As the title says, I really like roleplaying, especially ones that are the perfect balance. A story with an interesting setup and motivated characters, a romance that builds from there before eventually getting to the \"action\", though sprinkling it throughout makes it even better! Dont need to be the most amazing writer ever or anything, just more than a single sentence is fine :) Everyone comes across a situation where they cant think of much to write, and then ones where they just cant stop.\n\nMy sona is a male \"femboy\" lizard, if you are interested I will send you pictures of him. He is a total bottom though I am not opposed to giving rimming as well as receiving it. I have pretty vanilla fetishes, things like kissing, cuddling, cock and ball worship, belly worship, rimming, anal...all that stuff. The only out there ones I can really think of are mild cum inflation, size difference, oviposition and doing stuff while one person is asleep. Cant think of anymore right now :P\n\nI dont have any prefered setting, science fiction, fantasy, post apocalypse...pretty much any time besides modern I can get into! And not that I dont like modern, just its harder to make an interesting story that isnt the usual college roomate/new office member thing.\n\nSo if I sound interesting at all shoot me a PM, thanks for reading! :)",
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "furryrp",
+            "subreddit_id": "t5_2w2as",
+            "subreddit_type": "public",
+            "thumbnail": "self",
+            "title": "[M4M] [Serious] [Skype] Interested in roleplays with a perfect balance of story and sex?",
+            "url": "https://www.reddit.com/r/furryrp/comments/7oct4q/m4m_serious_skype_interested_in_roleplays_with_a/"
+        },
+        {
+            "author": "Jackal720",
+            "author_flair_css_class": null,
+            "author_flair_text": null,
+            "brand_safe": false,
+            "can_mod_post": false,
+            "contest_mode": false,
+            "created_utc": 1515256416,
+            "domain": "self.furryrp",
+            "full_link": "https://www.reddit.com/r/furryrp/comments/7ok79d/casualgroup_discord_brothel/",
+            "id": "7ok79d",
+            "is_crosspostable": true,
+            "is_reddit_media_domain": false,
+            "is_self": true,
+            "is_video": false,
+            "locked": false,
+            "num_comments": 0,
+            "num_crossposts": 0,
+            "over_18": true,
+            "permalink": "/r/furryrp/comments/7ok79d/casualgroup_discord_brothel/",
+            "pinned": false,
+            "retrieved_on": 1515317715,
+            "score": 1,
+            "selftext": "I run a small discord server called slut land that can feed everyone's sexual desires. We are still expanding membership so it may seem a little quiet for the next week or so, but we are growing. Kik me at cockalot1 or send me a PM on Reddit for an invite",
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "furryrp",
+            "subreddit_id": "t5_2w2as",
+            "subreddit_type": "public",
+            "thumbnail": "self",
+            "title": "[Casual][group] discord brothel",
+            "url": "https://www.reddit.com/r/furryrp/comments/7ok79d/casualgroup_discord_brothel/"
+        },
+        {
+            "author": "[deleted]",
+            "author_flair_css_class": null,
+            "author_flair_text": null,
+            "banned_by": "moderators",
+            "brand_safe": false,
+            "can_mod_post": false,
+            "contest_mode": false,
+            "created_utc": 1515322482,
+            "domain": "self.furryrp",
+            "full_link": "https://www.reddit.com/r/furryrp/comments/7oq0g6/f4f_my_secret_furry/",
+            "id": "7oq0g6",
+            "is_crosspostable": false,
+            "is_reddit_media_domain": false,
+            "is_self": true,
+            "is_video": false,
+            "locked": false,
+            "num_comments": 1,
+            "num_crossposts": 0,
+            "over_18": true,
+            "permalink": "/r/furryrp/comments/7oq0g6/f4f_my_secret_furry/",
+            "pinned": false,
+            "retrieved_on": 1515380386,
+            "score": 1,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "furryrp",
+            "subreddit_id": "t5_2w2as",
+            "subreddit_type": "public",
+            "thumbnail": "default",
+            "title": "F4F - My secret furry",
+            "url": "https://www.reddit.com/r/furryrp/comments/7oq0g6/f4f_my_secret_furry/"
+        },
+        {
+            "author": "_kitsuneintrouble",
+            "author_flair_css_class": null,
+            "author_flair_text": null,
+            "brand_safe": false,
+            "can_mod_post": false,
+            "contest_mode": false,
+            "created_utc": 1515364533,
+            "domain": "self.furryrp",
+            "full_link": "https://www.reddit.com/r/furryrp/comments/7otxqm/m4a_discord_long_term_dragonnette_looking_for_a/",
+            "id": "7otxqm",
+            "is_crosspostable": true,
+            "is_reddit_media_domain": false,
+            "is_self": true,
+            "is_video": false,
+            "locked": false,
+            "num_comments": 1,
+            "num_crossposts": 0,
+            "over_18": true,
+            "permalink": "/r/furryrp/comments/7otxqm/m4a_discord_long_term_dragonnette_looking_for_a/",
+            "pinned": false,
+            "retrieved_on": 1515429135,
+            "score": 1,
+            "selftext": "Hello there!\n\nAs of time of writing I am craving an adventure involving an anthro dragon character of mine and a world for him to explore in. Whether it is something like DnD or an original setting of your own making I will give it a go if you let me. I do not have a set goal other than exploration and having fun with the setting, but that can change down the road depending on how the RP develops.\n\nThe RP can be either SFW or NSFW - but if it is the latter then know I am rather vanilla with my kinks. The idea for NSFW would be that my character goes through an experience that makes him question who he is and how he views himself, and ending up as a pretty (but still potentially deadly!) dragoness. Romance can easily be had, too.\n\nIf you are interested send me a PM! I seek ideally a GM, but I am fine with more traditional RPing if you want that.\n\nRegards!",
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "furryrp",
+            "subreddit_id": "t5_2w2as",
+            "subreddit_type": "public",
+            "thumbnail": "self",
+            "title": "[M4A] [Discord] [Long Term] Dragon(nette?) looking for a GM/Partner to play with in a High Fantasy adventure. Might or might not have transgender themes and romance...",
+            "url": "https://www.reddit.com/r/furryrp/comments/7otxqm/m4a_discord_long_term_dragonnette_looking_for_a/"
+        }
+    ]
+}

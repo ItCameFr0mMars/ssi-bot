@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "author": "[deleted]",
+            "author_created_utc": null,
+            "author_flair_background_color": "",
+            "author_flair_css_class": null,
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": "dark",
+            "author_fullname": null,
+            "body": "[removed]",
+            "can_gild": false,
+            "collapsed": true,
+            "collapsed_reason": null,
+            "controversiality": 0,
+            "created_utc": 1539847374,
+            "distinguished": null,
+            "gilded": 0,
+            "gildings": {
+                "gid_1": 0,
+                "gid_2": 0,
+                "gid_3": 0
+            },
+            "id": "e7zizpq",
+            "is_submitter": false,
+            "link_id": "t3_9p6eia",
+            "mod_removed": true,
+            "nest_level": 1,
+            "no_follow": true,
+            "parent_id": "t3_9p6eia",
+            "permalink": "/r/dirtypenpals/comments/9p6eia/f4f_two_celebs_in_the_woods/e7zizpq/",
+            "reply_delay": 6180,
+            "retrieved_on": 1541181953,
+            "score": 1,
+            "send_replies": true,
+            "stickied": false,
+            "subreddit": "dirtypenpals",
+            "subreddit_id": "t5_2sbbv",
+            "subreddit_name_prefixed": "r/dirtypenpals",
+            "subreddit_type": "public"
+        }
+    ]
+}

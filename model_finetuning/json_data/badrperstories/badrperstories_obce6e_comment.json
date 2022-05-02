@@ -1,0 +1,625 @@
+{
+    "data": [
+        {
+            "all_awardings": [
+                {
+                    "award_sub_type": "GROUP",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": 3,
+                    "coin_price": 300,
+                    "coin_reward": 250,
+                    "count": 1,
+                    "days_of_drip_extension": 0,
+                    "days_of_premium": 0,
+                    "description": "THIS right here! Join together to give multiple This awards and see the award evolve in its display and shower benefits for the recipient. For every 3 This awards given to a post or comment, the author will get 250 coins.",
+                    "end_date": null,
+                    "giver_coin_reward": null,
+                    "icon_format": null,
+                    "icon_height": 2048,
+                    "icon_url": "https://i.redd.it/award_images/t5_22cerq/vu6om0xnb7e41_This.png",
+                    "icon_width": 2048,
+                    "id": "award_68ba1ee3-9baf-4252-be52-b808c1e8bdc4",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "This",
+                    "penny_donate": null,
+                    "penny_price": null,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/vu6om0xnb7e41_This.png?width=16&amp;height=16&amp;auto=webp&amp;s=9c0a85437357b987e50ba727b67fcc53b0950c95",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/vu6om0xnb7e41_This.png?width=32&amp;height=32&amp;auto=webp&amp;s=773692cd146e84fddcc3d192b6ebb7e0ff8fa8bb",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/vu6om0xnb7e41_This.png?width=48&amp;height=48&amp;auto=webp&amp;s=597adeb2d7ab45cc61a726b7c7d6877d264ee33d",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/vu6om0xnb7e41_This.png?width=64&amp;height=64&amp;auto=webp&amp;s=886636fb2fc59fc1c9a5e2d05cb3f2e0d42714b6",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/vu6om0xnb7e41_This.png?width=128&amp;height=128&amp;auto=webp&amp;s=28657eedaaa67c90c4b4a97d134fe607bb92c975",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/vu6om0xnb7e41_This.png?width=16&amp;height=16&amp;auto=webp&amp;s=9c0a85437357b987e50ba727b67fcc53b0950c95",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/vu6om0xnb7e41_This.png?width=32&amp;height=32&amp;auto=webp&amp;s=773692cd146e84fddcc3d192b6ebb7e0ff8fa8bb",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/vu6om0xnb7e41_This.png?width=48&amp;height=48&amp;auto=webp&amp;s=597adeb2d7ab45cc61a726b7c7d6877d264ee33d",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/vu6om0xnb7e41_This.png?width=64&amp;height=64&amp;auto=webp&amp;s=886636fb2fc59fc1c9a5e2d05cb3f2e0d42714b6",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/vu6om0xnb7e41_This.png?width=128&amp;height=128&amp;auto=webp&amp;s=28657eedaaa67c90c4b4a97d134fe607bb92c975",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 2048,
+                    "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/vu6om0xnb7e41_This.png",
+                    "static_icon_width": 2048,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": {
+                        "0": {
+                            "awardings_required": 0,
+                            "icon": {
+                                "format": "PNG",
+                                "height": 2048,
+                                "url": "https://i.redd.it/award_images/t5_22cerq/vu6om0xnb7e41_This.png",
+                                "width": 2048
+                            },
+                            "resized_icons": [
+                                {
+                                    "height": 16,
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/vu6om0xnb7e41_This.png?width=16&amp;height=16&amp;auto=webp&amp;s=9c0a85437357b987e50ba727b67fcc53b0950c95",
+                                    "width": 16
+                                },
+                                {
+                                    "height": 32,
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/vu6om0xnb7e41_This.png?width=32&amp;height=32&amp;auto=webp&amp;s=773692cd146e84fddcc3d192b6ebb7e0ff8fa8bb",
+                                    "width": 32
+                                },
+                                {
+                                    "height": 48,
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/vu6om0xnb7e41_This.png?width=48&amp;height=48&amp;auto=webp&amp;s=597adeb2d7ab45cc61a726b7c7d6877d264ee33d",
+                                    "width": 48
+                                },
+                                {
+                                    "height": 64,
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/vu6om0xnb7e41_This.png?width=64&amp;height=64&amp;auto=webp&amp;s=886636fb2fc59fc1c9a5e2d05cb3f2e0d42714b6",
+                                    "width": 64
+                                },
+                                {
+                                    "height": 128,
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/vu6om0xnb7e41_This.png?width=128&amp;height=128&amp;auto=webp&amp;s=28657eedaaa67c90c4b4a97d134fe607bb92c975",
+                                    "width": 128
+                                }
+                            ],
+                            "resized_static_icons": [
+                                {
+                                    "height": 16,
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/vu6om0xnb7e41_This.png?width=16&amp;height=16&amp;auto=webp&amp;s=9c0a85437357b987e50ba727b67fcc53b0950c95",
+                                    "width": 16
+                                },
+                                {
+                                    "height": 32,
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/vu6om0xnb7e41_This.png?width=32&amp;height=32&amp;auto=webp&amp;s=773692cd146e84fddcc3d192b6ebb7e0ff8fa8bb",
+                                    "width": 32
+                                },
+                                {
+                                    "height": 48,
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/vu6om0xnb7e41_This.png?width=48&amp;height=48&amp;auto=webp&amp;s=597adeb2d7ab45cc61a726b7c7d6877d264ee33d",
+                                    "width": 48
+                                },
+                                {
+                                    "height": 64,
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/vu6om0xnb7e41_This.png?width=64&amp;height=64&amp;auto=webp&amp;s=886636fb2fc59fc1c9a5e2d05cb3f2e0d42714b6",
+                                    "width": 64
+                                },
+                                {
+                                    "height": 128,
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/vu6om0xnb7e41_This.png?width=128&amp;height=128&amp;auto=webp&amp;s=28657eedaaa67c90c4b4a97d134fe607bb92c975",
+                                    "width": 128
+                                }
+                            ],
+                            "static_icon": {
+                                "format": null,
+                                "height": 2048,
+                                "url": "https://i.redd.it/award_images/t5_22cerq/vu6om0xnb7e41_This.png",
+                                "width": 2048
+                            }
+                        },
+                        "3": {
+                            "awardings_required": 3,
+                            "icon": {
+                                "format": "PNG",
+                                "height": 2048,
+                                "url": "https://i.redd.it/award_images/t5_q0gj4/h9u2ml36hqq51_ThisGold.png",
+                                "width": 2048
+                            },
+                            "resized_icons": [
+                                {
+                                    "height": 16,
+                                    "url": "https://preview.redd.it/award_images/t5_q0gj4/h9u2ml36hqq51_ThisGold.png?width=16&amp;height=16&amp;auto=webp&amp;s=c03d4f83daf03bfc8a4341e2ad6b5a6d3c471cfe",
+                                    "width": 16
+                                },
+                                {
+                                    "height": 32,
+                                    "url": "https://preview.redd.it/award_images/t5_q0gj4/h9u2ml36hqq51_ThisGold.png?width=32&amp;height=32&amp;auto=webp&amp;s=8a5328341618fe60ccb2b1ddd32561975793204a",
+                                    "width": 32
+                                },
+                                {
+                                    "height": 48,
+                                    "url": "https://preview.redd.it/award_images/t5_q0gj4/h9u2ml36hqq51_ThisGold.png?width=48&amp;height=48&amp;auto=webp&amp;s=957b055444fd6231afb60b58aa95fe74505554f1",
+                                    "width": 48
+                                },
+                                {
+                                    "height": 64,
+                                    "url": "https://preview.redd.it/award_images/t5_q0gj4/h9u2ml36hqq51_ThisGold.png?width=64&amp;height=64&amp;auto=webp&amp;s=e4a23a37adf97381673eac6bdd7a52ebc69f8fe4",
+                                    "width": 64
+                                },
+                                {
+                                    "height": 128,
+                                    "url": "https://preview.redd.it/award_images/t5_q0gj4/h9u2ml36hqq51_ThisGold.png?width=128&amp;height=128&amp;auto=webp&amp;s=092eed0465f28509f0ab7e9a56cdbf826b812555",
+                                    "width": 128
+                                }
+                            ],
+                            "resized_static_icons": [
+                                {
+                                    "height": 16,
+                                    "url": "https://preview.redd.it/award_images/t5_q0gj4/h9u2ml36hqq51_ThisGold.png?width=16&amp;height=16&amp;auto=webp&amp;s=c03d4f83daf03bfc8a4341e2ad6b5a6d3c471cfe",
+                                    "width": 16
+                                },
+                                {
+                                    "height": 32,
+                                    "url": "https://preview.redd.it/award_images/t5_q0gj4/h9u2ml36hqq51_ThisGold.png?width=32&amp;height=32&amp;auto=webp&amp;s=8a5328341618fe60ccb2b1ddd32561975793204a",
+                                    "width": 32
+                                },
+                                {
+                                    "height": 48,
+                                    "url": "https://preview.redd.it/award_images/t5_q0gj4/h9u2ml36hqq51_ThisGold.png?width=48&amp;height=48&amp;auto=webp&amp;s=957b055444fd6231afb60b58aa95fe74505554f1",
+                                    "width": 48
+                                },
+                                {
+                                    "height": 64,
+                                    "url": "https://preview.redd.it/award_images/t5_q0gj4/h9u2ml36hqq51_ThisGold.png?width=64&amp;height=64&amp;auto=webp&amp;s=e4a23a37adf97381673eac6bdd7a52ebc69f8fe4",
+                                    "width": 64
+                                },
+                                {
+                                    "height": 128,
+                                    "url": "https://preview.redd.it/award_images/t5_q0gj4/h9u2ml36hqq51_ThisGold.png?width=128&amp;height=128&amp;auto=webp&amp;s=092eed0465f28509f0ab7e9a56cdbf826b812555",
+                                    "width": 128
+                                }
+                            ],
+                            "static_icon": {
+                                "format": null,
+                                "height": 2048,
+                                "url": "https://i.redd.it/award_images/t5_q0gj4/h9u2ml36hqq51_ThisGold.png",
+                                "width": 2048
+                            }
+                        },
+                        "6": {
+                            "awardings_required": 6,
+                            "icon": {
+                                "format": "APNG",
+                                "height": 2048,
+                                "url": "https://www.redditstatic.com/gold/awards/icon/This_platinum_512.png",
+                                "width": 2048
+                            },
+                            "resized_icons": [
+                                {
+                                    "height": 16,
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/This_platinum_16.png",
+                                    "width": 16
+                                },
+                                {
+                                    "height": 32,
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/This_platinum_32.png",
+                                    "width": 32
+                                },
+                                {
+                                    "height": 48,
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/This_platinum_48.png",
+                                    "width": 48
+                                },
+                                {
+                                    "height": 64,
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/This_platinum_64.png",
+                                    "width": 64
+                                },
+                                {
+                                    "height": 128,
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/This_platinum_128.png",
+                                    "width": 128
+                                }
+                            ],
+                            "resized_static_icons": [
+                                {
+                                    "height": 16,
+                                    "url": "https://preview.redd.it/award_images/t5_q0gj4/yx7ed010fqq51_ThisPlatinum.png?width=16&amp;height=16&amp;auto=webp&amp;s=76f2f547bdbbf86d19102099ccc024277c7673ef",
+                                    "width": 16
+                                },
+                                {
+                                    "height": 32,
+                                    "url": "https://preview.redd.it/award_images/t5_q0gj4/yx7ed010fqq51_ThisPlatinum.png?width=32&amp;height=32&amp;auto=webp&amp;s=3cc88e042abbb716b059f9f3c2d58b8667fc5e03",
+                                    "width": 32
+                                },
+                                {
+                                    "height": 48,
+                                    "url": "https://preview.redd.it/award_images/t5_q0gj4/yx7ed010fqq51_ThisPlatinum.png?width=48&amp;height=48&amp;auto=webp&amp;s=63ce35d010ce32d32a15d792a32cba39f7b95519",
+                                    "width": 48
+                                },
+                                {
+                                    "height": 64,
+                                    "url": "https://preview.redd.it/award_images/t5_q0gj4/yx7ed010fqq51_ThisPlatinum.png?width=64&amp;height=64&amp;auto=webp&amp;s=ddb817cacf22f2ee855e7263445b8613e8f2a718",
+                                    "width": 64
+                                },
+                                {
+                                    "height": 128,
+                                    "url": "https://preview.redd.it/award_images/t5_q0gj4/yx7ed010fqq51_ThisPlatinum.png?width=128&amp;height=128&amp;auto=webp&amp;s=39ff319c1aab711b02f581a4b36ecf2663c72463",
+                                    "width": 128
+                                }
+                            ],
+                            "static_icon": {
+                                "format": null,
+                                "height": 2048,
+                                "url": "https://i.redd.it/award_images/t5_q0gj4/yx7ed010fqq51_ThisPlatinum.png",
+                                "width": 2048
+                            }
+                        },
+                        "9": {
+                            "awardings_required": 9,
+                            "icon": {
+                                "format": "APNG",
+                                "height": 2048,
+                                "url": "https://www.redditstatic.com/gold/awards/icon/This_argentium_512.png",
+                                "width": 2048
+                            },
+                            "resized_icons": [
+                                {
+                                    "height": 16,
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/This_argentium_16.png",
+                                    "width": 16
+                                },
+                                {
+                                    "height": 32,
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/This_argentium_32.png",
+                                    "width": 32
+                                },
+                                {
+                                    "height": 48,
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/This_argentium_48.png",
+                                    "width": 48
+                                },
+                                {
+                                    "height": 64,
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/This_argentium_64.png",
+                                    "width": 64
+                                },
+                                {
+                                    "height": 128,
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/This_argentium_128.png",
+                                    "width": 128
+                                }
+                            ],
+                            "resized_static_icons": [
+                                {
+                                    "height": 16,
+                                    "url": "https://preview.redd.it/award_images/t5_q0gj4/ceeqdqlwgqq51_ThisArgentium.jpg?width=16&amp;height=16&amp;auto=webp&amp;s=cc2d64c1d075d5b56c271e18fa12a2065051431b",
+                                    "width": 16
+                                },
+                                {
+                                    "height": 32,
+                                    "url": "https://preview.redd.it/award_images/t5_q0gj4/ceeqdqlwgqq51_ThisArgentium.jpg?width=32&amp;height=32&amp;auto=webp&amp;s=2c7203ff6dd93cbacb44c22f924fd158711a3329",
+                                    "width": 32
+                                },
+                                {
+                                    "height": 48,
+                                    "url": "https://preview.redd.it/award_images/t5_q0gj4/ceeqdqlwgqq51_ThisArgentium.jpg?width=48&amp;height=48&amp;auto=webp&amp;s=e5b8f3d232381249734ebd76dd5321d8f291944a",
+                                    "width": 48
+                                },
+                                {
+                                    "height": 64,
+                                    "url": "https://preview.redd.it/award_images/t5_q0gj4/ceeqdqlwgqq51_ThisArgentium.jpg?width=64&amp;height=64&amp;auto=webp&amp;s=e5cb76cb109d814185fa542e357c5c0e9aa5036b",
+                                    "width": 64
+                                },
+                                {
+                                    "height": 128,
+                                    "url": "https://preview.redd.it/award_images/t5_q0gj4/ceeqdqlwgqq51_ThisArgentium.jpg?width=128&amp;height=128&amp;auto=webp&amp;s=3359c9a307d45b81b095996d03c4ab512cb098a1",
+                                    "width": 128
+                                }
+                            ],
+                            "static_icon": {
+                                "format": null,
+                                "height": 2048,
+                                "url": "https://i.redd.it/award_images/t5_q0gj4/ceeqdqlwgqq51_ThisArgentium.jpg",
+                                "width": 2048
+                            }
+                        }
+                    }
+                }
+            ],
+            "associated_award": null,
+            "author": "raptorrowan",
+            "author_flair_background_color": null,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_6mtor98j",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "body": "The only way this would be shady is if you copy content from the original group that's not yours imo. I've never stuck to just one group at a time and I've been open about that since the beginning. I can count the number of people who have had a problem with it on one hand.",
+            "collapsed_because_crowd_control": null,
+            "comment_type": null,
+            "created_utc": 1625107433,
+            "gildings": {},
+            "id": "h3mz73h",
+            "is_submitter": false,
+            "link_id": "t3_obce6e",
+            "locked": false,
+            "no_follow": false,
+            "parent_id": "t3_obce6e",
+            "permalink": "/r/BadRPerStories/comments/obce6e/would_this_be_shady/h3mz73h/",
+            "retrieved_on": 1625359820,
+            "score": 16,
+            "send_replies": true,
+            "stickied": false,
+            "subreddit": "BadRPerStories",
+            "subreddit_id": "t5_37a22",
+            "top_awarded_type": null,
+            "total_awards_received": 1,
+            "treatment_tags": []
+        },
+        {
+            "all_awardings": [],
+            "associated_award": null,
+            "author": "XXWITCHBITCHXX",
+            "author_flair_background_color": null,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_bcc2bnrz",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "body": "No",
+            "collapsed_because_crowd_control": null,
+            "comment_type": null,
+            "created_utc": 1625107474,
+            "gildings": {},
+            "id": "h3mza1v",
+            "is_submitter": false,
+            "link_id": "t3_obce6e",
+            "locked": false,
+            "no_follow": false,
+            "parent_id": "t3_obce6e",
+            "permalink": "/r/BadRPerStories/comments/obce6e/would_this_be_shady/h3mza1v/",
+            "retrieved_on": 1625359861,
+            "score": 5,
+            "send_replies": true,
+            "stickied": false,
+            "subreddit": "BadRPerStories",
+            "subreddit_id": "t5_37a22",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": []
+        },
+        {
+            "all_awardings": [],
+            "associated_award": null,
+            "author": "anoukdaae",
+            "author_flair_background_color": null,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_dppvhc",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "body": "&gt;The only way this would be shady is if you copy content from the original group that's not yours\n\nThis.",
+            "collapsed_because_crowd_control": null,
+            "comment_type": null,
+            "created_utc": 1625109713,
+            "gildings": {},
+            "id": "h3n3nft",
+            "is_submitter": false,
+            "link_id": "t3_obce6e",
+            "locked": false,
+            "no_follow": false,
+            "parent_id": "t1_h3mz73h",
+            "permalink": "/r/BadRPerStories/comments/obce6e/would_this_be_shady/h3n3nft/",
+            "retrieved_on": 1625362126,
+            "score": 11,
+            "send_replies": true,
+            "stickied": false,
+            "subreddit": "BadRPerStories",
+            "subreddit_id": "t5_37a22",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": []
+        },
+        {
+            "all_awardings": [],
+            "associated_award": null,
+            "author": "CaptainDigitalPirate",
+            "author_flair_background_color": null,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_9qrm8fvo",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "body": "As long as you don't make it out to be a war or as I saw another poster said copy directly from them you should be fine. And if they wanna be toxic about you making a group, that's their problem and not yours. At that point they're being entirely unreasonable and I'd suggest ditching them. Of course you don't have to but I've been in a situation like this and I will say it felt so much better separating entirely after I made my own group. I do wish you luck and fortune if you make a new group. Plenty of Rpers out there that are amazing people!",
+            "collapsed_because_crowd_control": null,
+            "comment_type": null,
+            "created_utc": 1625111401,
+            "gildings": {},
+            "id": "h3n6xmr",
+            "is_submitter": false,
+            "link_id": "t3_obce6e",
+            "locked": false,
+            "no_follow": false,
+            "parent_id": "t3_obce6e",
+            "permalink": "/r/BadRPerStories/comments/obce6e/would_this_be_shady/h3n6xmr/",
+            "retrieved_on": 1625363764,
+            "score": 8,
+            "send_replies": true,
+            "stickied": false,
+            "subreddit": "BadRPerStories",
+            "subreddit_id": "t5_37a22",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": []
+        },
+        {
+            "all_awardings": [],
+            "associated_award": null,
+            "author": "shitty_waifuxo",
+            "author_flair_background_color": null,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_522gnhdj",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "body": "Nope. What everyone else said, and adding on to it, typically I think 'poaching members' is generally frowned upon in the RP community. So don't do that and nobody should have a problem with this otherwise, It's normal to have more than one group anyway.",
+            "collapsed_because_crowd_control": null,
+            "comment_type": null,
+            "created_utc": 1625115586,
+            "gildings": {},
+            "id": "h3ndt9d",
+            "is_submitter": false,
+            "link_id": "t3_obce6e",
+            "locked": false,
+            "no_follow": true,
+            "parent_id": "t3_obce6e",
+            "permalink": "/r/BadRPerStories/comments/obce6e/would_this_be_shady/h3ndt9d/",
+            "retrieved_on": 1625367298,
+            "score": 3,
+            "send_replies": true,
+            "stickied": false,
+            "subreddit": "BadRPerStories",
+            "subreddit_id": "t5_37a22",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": []
+        },
+        {
+            "all_awardings": [],
+            "associated_award": null,
+            "author": "Mindelan",
+            "author_flair_background_color": null,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_6ot9u",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "body": "Don't steal their content/rules write up/setting info and don't poach members from that group or advertise in that server and you're all good.",
+            "collapsed_because_crowd_control": null,
+            "comment_type": null,
+            "created_utc": 1625126877,
+            "gildings": {},
+            "id": "h3ns7c1",
+            "is_submitter": false,
+            "link_id": "t3_obce6e",
+            "locked": false,
+            "no_follow": true,
+            "parent_id": "t3_obce6e",
+            "permalink": "/r/BadRPerStories/comments/obce6e/would_this_be_shady/h3ns7c1/",
+            "retrieved_on": 1625374714,
+            "score": 2,
+            "send_replies": true,
+            "stickied": false,
+            "subreddit": "BadRPerStories",
+            "subreddit_id": "t5_37a22",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": []
+        },
+        {
+            "all_awardings": [],
+            "associated_award": null,
+            "author": "HopefullyGinger",
+            "author_flair_background_color": null,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_1hot9e5m",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "body": "So many times I have made a \u2018panic room\u2019 from toxic servers and invited all the cool kids to come hang out in a drama free space. Not shady at all.",
+            "collapsed_because_crowd_control": null,
+            "comment_type": null,
+            "created_utc": 1625130959,
+            "gildings": {},
+            "id": "h3nwlro",
+            "is_submitter": false,
+            "link_id": "t3_obce6e",
+            "locked": false,
+            "no_follow": false,
+            "parent_id": "t3_obce6e",
+            "permalink": "/r/BadRPerStories/comments/obce6e/would_this_be_shady/h3nwlro/",
+            "retrieved_on": 1625376954,
+            "score": 3,
+            "send_replies": true,
+            "stickied": false,
+            "subreddit": "BadRPerStories",
+            "subreddit_id": "t5_37a22",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": []
+        }
+    ]
+}

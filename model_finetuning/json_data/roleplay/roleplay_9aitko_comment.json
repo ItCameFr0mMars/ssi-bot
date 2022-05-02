@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "author": "[deleted]",
+            "author_flair_background_color": "",
+            "author_flair_css_class": null,
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": "dark",
+            "body": "[removed]",
+            "can_gild": true,
+            "collapsed": true,
+            "collapsed_reason": null,
+            "controversiality": 0,
+            "created_utc": 1535316177,
+            "distinguished": null,
+            "gilded": 0,
+            "gildings": {
+                "gid_1": 0,
+                "gid_2": 0,
+                "gid_3": 0
+            },
+            "id": "e4vpw5k",
+            "is_submitter": false,
+            "link_id": "t3_9aitko",
+            "mod_removed": true,
+            "nest_level": 1,
+            "no_follow": true,
+            "parent_id": "t3_9aitko",
+            "permalink": "/r/Roleplay/comments/9aitko/red_vs_blue_hangout_and_roleplay_discord_server/e4vpw5k/",
+            "reply_delay": 0,
+            "retrieved_on": 1537959114,
+            "score": 1,
+            "send_replies": false,
+            "stickied": false,
+            "subreddit": "Roleplay",
+            "subreddit_id": "t5_2qrxs",
+            "subreddit_name_prefixed": "r/Roleplay",
+            "subreddit_type": "public"
+        }
+    ]
+}
