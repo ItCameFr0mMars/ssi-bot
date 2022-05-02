@@ -18,7 +18,7 @@ from db import (Comment as db_Comment, Submission as db_Submission)
 from db import create_tables
 
 config = ConfigParser()
-config.read('dataset.ini')
+config.read('/workspace/ssi-bot/model_finetuning/dataset.ini')
 
 # Set session globally fo the run
 http = requests.Session()
